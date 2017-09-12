@@ -1,2 +1,2 @@
 # hello-world
-Getting started
+This is my first time on hub, ya git.
